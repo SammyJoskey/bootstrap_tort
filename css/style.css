@@ -1,0 +1,28 @@
+
+
+.col:nth-of-type(1) {
+background-color: #801B14 
+}
+
+.col:nth-of-type(2) {
+background-color: #F2E4A4 
+}
+
+.col:nth-of-type(3) {
+background-color: #A19D77
+}
+
+.col:nth-of-type(4) {
+background-color: #2A2B24 
+}
+
+
+.col:nth-of-type(5) {
+background-color: #E0493F
+}
+
+
+
+.col {
+	height: 350px
+}
